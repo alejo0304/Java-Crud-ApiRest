@@ -13,7 +13,7 @@ Features
 
 Technologies Used
 
-* Java 11: The programming language used for development.
+* Java 21: The programming language used for development.
 * Spring Boot 2.5: Framework for building the API.
 * PostgreSQL: Database management system used for data storage.
 * Maven: Dependency management and build automation tool.
@@ -23,7 +23,7 @@ Getting Started
 
 Prerequisites
 
-* JDK 11 or higher
+* JDK 21 or higher
 * Maven
 * Docker
 * PostgreSQL
