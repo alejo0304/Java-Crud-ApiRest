@@ -36,6 +36,7 @@ Installation
 
 2.Configure the database:
 
+* Create de field .env with de variables configuration for Postgres
 * Ensure PostgreSQL is running.
 * Update the application.properties file with your database credentials.
 
